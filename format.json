@@ -1,0 +1,46 @@
+{
+    "ids": [
+      [
+        "Nikhith_Resume (1).pdf_0",
+        "Nikhith_Resume (1).pdf_3",
+        "Nikhith_Resume (1).pdf_2"
+      ]
+    ],
+    "distances": [
+      [
+        4.137574195861816,
+        5.031844139099121,
+        6.87846040725708
+      ]
+    ],
+    "metadatas": [
+      [
+        {
+          "chunk": "Nikhith Reddy – 9550973451 R katasaninikhith@gmail.com – linkedin.com/in/nikhithreddyk – github.com/Nikhith10 Education Manipal Institute Of Technology Manipal Bachelor of Technology in Data Science and Engineering 2020 – 2024 C.G.P.A 8.70 Experience Data Science Intern Jan 2023 – present Data Foundry– Bangalore, Karnataka – Performed real-time monitoring of Twitter activity to gather"
+        },
+        {
+          "chunk": "website using HTML, CSS, Bootstrap, and JavaScript. Management Committee Member Oct 2021 – Sept 2022 ISTE Manipal – Project technical lead for Twitter Sentimental analysis Project – Techweek was organized at Manipal by resolving PR issues, handling publicity before, during, and after the event, and assisting with content for publicity."
+        },
+        {
+          "chunk": "Manipal – Dronaid is a student project which aims to provide medical aid using drones – Working on Object Detection, Object Tracking Collision Avoidance of drones. Working Committee Member Dec 2021 – Oct 2022 The Think Tank, Manipal – For the TEDXMAHE Ticket Booking Site, created a responsive front end"
+        }
+      ]
+    ],
+    "embeddings": null,
+    "documents": [
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "uris": null,
+    "data": null,
+    "included": [
+      "metadatas",
+      "documents",
+      "distances"
+    ]
+  }
+
+  

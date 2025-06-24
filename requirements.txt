@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+PyMuPDF 
+python-docx
+chromadb
+transformers
+torch
+openai
+
